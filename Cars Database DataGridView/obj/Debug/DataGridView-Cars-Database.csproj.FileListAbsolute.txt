@@ -1,0 +1,10 @@
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\bin\Debug\Sterczewski Laboratorium 9.exe.config
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\bin\Debug\Sterczewski Laboratorium 9.exe
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\bin\Debug\Sterczewski Laboratorium 9.pdb
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\obj\Debug\DataGridView-Cars-Database.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\obj\Debug\Sterczewski_Laboratorium_9.Form1.resources
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\obj\Debug\Sterczewski_Laboratorium_9.Properties.Resources.resources
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\obj\Debug\DataGridView-Cars-Database.csproj.GenerateResource.Cache
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\obj\Debug\DataGridView-Cars-Database.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\obj\Debug\Sterczewski Laboratorium 9.exe
+C:\Users\Kuba\Desktop\Semestr IV\Obiektowe\Sterczewski Laboratorium 9\Cars Database DataGridView\obj\Debug\Sterczewski Laboratorium 9.pdb
